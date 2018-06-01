@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1025311890350",
+    "firebase_url": "https://simpletwitterapp.firebaseio.com",
+    "project_id": "simpletwitterapp",
+    "storage_bucket": "simpletwitterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025311890350:android:4ac3d33078c23688",
+        "android_client_info": {
+          "package_name": "com.chaitanya.sanoriya.simpletwitterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025311890350-p25jh4t19ols5174t78bq4p4qrt0kmf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chaitanya.sanoriya.simpletwitterapp",
+            "certificate_hash": "372c1a18910db3aea1160ca10e9160fce289272d"
+          }
+        },
+        {
+          "client_id": "1025311890350-hh3re90o2egg5ko1tv7aggq65go6dtol.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1025311890350-hh3re90o2egg5ko1tv7aggq65go6dtol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwyZI-Q2w2g6zs4MOL5_57HlulBHTamFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025311890350-hh3re90o2egg5ko1tv7aggq65go6dtol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
